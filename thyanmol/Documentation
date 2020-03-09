@@ -1,1 +1,4 @@
 Documentation
+
+changed this lines from all HTML file : {% load staticfiles %}
+to : {% load static %}
